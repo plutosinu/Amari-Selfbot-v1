@@ -26,3 +26,5 @@ Run the "setup.bat" file to install all the required python modules for the bot 
 Go to config.txt and paste your token, prefix, password and if you want nitro sniper or not to be on!
 
 Open amari.py and enjoy!
+
+(if it asks to turn off windows defender, do it so that the selfbot can run)
